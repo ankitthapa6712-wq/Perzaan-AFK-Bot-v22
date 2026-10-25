@@ -1,13 +1,13 @@
 {
-  "name": "AFK Bot",
+  "name": "Ankit Live",
   "bot-account": {
-    "username": "PerzaanLive",
+    "username": "Ankit Live",
     "password": "",
     "type": "offline"
   },
-  "server": {
+  "server": AnkitProYT.aternos.me{
     "ip": "example.aternos.me",
-    "port": 75375,
+    "port": 19366,
     "version": "1.21.1"
   },
   "position": {
